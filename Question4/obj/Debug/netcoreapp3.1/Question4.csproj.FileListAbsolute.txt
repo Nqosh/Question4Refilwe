@@ -1,0 +1,15 @@
+C:\Users\CT301728\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.exe
+C:\Users\CT301728\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.deps.json
+C:\Users\CT301728\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.json
+C:\Users\CT301728\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.dev.json
+C:\Users\CT301728\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.dll
+C:\Users\CT301728\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.pdb
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.csprojAssemblyReference.cache
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.Form1.resources
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.csproj.GenerateResource.cache
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfoInputs.cache
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfo.cs
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.csproj.CoreCompileInputs.cache
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.dll
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.pdb
+C:\Users\CT301728\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.genruntimeconfig.cache
